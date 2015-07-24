@@ -1,0 +1,15 @@
+"D:\EWARM\arm\bin\armproc.dll" 
+
+"D:\EWARM\arm\bin\armstlink.dll" 
+
+"C:\Users\Marko\Desktop\STM32F429I-Discovery_FW_V1.0.1\Projects\Template\EWARM\Template\Exe\Template.out" 
+
+--plugin "D:\EWARM\arm\bin\armbat.dll" 
+
+--device_macro "D:\EWARM\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\EWARM\arm\config\flashloader\ST\FlashSTM32F4xxI.board" 
+
+
+
+
