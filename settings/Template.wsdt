@@ -24,7 +24,7 @@
     <Windows>
       
       
-    <Wnd2>
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-14238-14424</Identity>
@@ -36,7 +36,7 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
         <Tabs>
           <Tab>
             <Identity>TabID-24464-14437</Identity>
@@ -46,20 +46,20 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
     <Editor>
       
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>20</YPos2><SelStart2>494</SelStart2><SelEnd2>494</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>672</YPos2><SelStart2>1133</SelStart2><SelEnd2>1195</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>154</YPos2><SelStart2>30385</SelStart2><SelEnd2>30385</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><Sizes><Pane><X>625240</X><Y>1000000</Y></Pane><Pane><X>374759</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>397</SelStart2><SelEnd2>397</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1702</YPos2><SelStart2>34751</SelStart2><SelEnd2>34751</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>612</YPos2><SelStart2>31289</SelStart2><SelEnd2>31289</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>1</ActivePane><Sizes><Pane><X>623314</X><Y>1000000</Y></Pane><Pane><X>376685</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-054580E8><key>iaridepm.enu1</key></Toolbar-054580E8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>500</Bottom><Right>326</Right><x>-2</x><y>-2</y><xscreen>296</xscreen><yscreen>138</yscreen><sizeHorzCX>216691</sizeHorzCX><sizeHorzCY>201460</sizeHorzCY><sizeVertCX>240117</sizeVertCX><sizeVertCY>732847</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>140</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>142</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>207299</sizeHorzCY><sizeVertCX>216691</sizeVertCX><sizeVertCY>201460</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-05FC8BF0><key>iaridepm.enu1</key></Toolbar-05FC8BF0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>549</Bottom><Right>326</Right><x>-2</x><y>-2</y><xscreen>296</xscreen><yscreen>138</yscreen><sizeHorzCX>216691</sizeHorzCX><sizeHorzCY>201460</sizeHorzCY><sizeVertCX>240117</sizeVertCX><sizeVertCY>804380</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>91</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>93</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>135766</sizeHorzCY><sizeVertCX>216691</sizeVertCX><sizeVertCY>201460</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
